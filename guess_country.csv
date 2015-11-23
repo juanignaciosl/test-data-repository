@@ -1,5 +1,5 @@
-Country,Amount,tobedeleted
-Spain,1,1
-France,2,2
-China,3,2
-Japan,4,1
+Country,Amount
+Spain,1
+France,2
+China,3
+Japan,4
