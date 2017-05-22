@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+    <name>shapes.kml</name>
+    <Folder>
+        <name>Shapes</name>
+        <Folder>
+            <name>Set 1</name>
+            <Placemark>
+                <name>Shape 1-1</name>
+                <Polygon>
+                    <tessellate>1</tessellate>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>
+                                -81.97209580036224,40.70902818974323,0 -81.97211148995324,40.70705812260233,0 -81.97204657426639,40.70698429917707,0 -81.97170065320428,40.70689762261313,0 -81.97128823249281,40.70678591732805,0 -81.97012759802162,40.70683180630405,0 -81.97011100460675,40.70907869772486,0 -81.97209580036224,40.70902818974323,0 
+                            </coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark>
+                <name>Shape 1-2</name>
+                <Polygon>
+                    <tessellate>1</tessellate>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>
+                                -81.9678256998772,40.70699525577179,0 -81.96710537786173,40.70714109117483,0 -81.9671339172961,40.70964816832036,0 -81.9681094085136,40.70953487937989,0 -81.96849455277558,40.70941143819032,0 -81.9687122721291,40.70922702833104,0 -81.96869523424586,40.70693622825318,0 -81.9678256998772,40.70699525577179,0 
+                            </coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark>
+                <name>Shape 1-3</name>
+                <Polygon>
+                    <tessellate>1</tessellate>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>
+                                -81.97575255412974,40.70901137563123,0 -81.97498009801741,40.70910891904678,0 -81.97366868385656,40.70909911614361,0 -81.97156793031792,40.70919907550063,0 -81.96927940567542,40.70932415940178,0 -81.96979533529213,40.70965324506344,0 -81.97175061906975,40.70968631132654,0 -81.9733120082854,40.70970666237672,0 -81.97576756497214,40.70956450955584,0 -81.97575255412974,40.70901137563123,0 
+                            </coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark>
+                <name>Shape 1-4</name>
+                <Polygon>
+                    <tessellate>1</tessellate>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>
+                                -81.96434152341726,40.70702598013048,0 -81.96356422472108,40.70713349505342,0 -81.96297679852724,40.70696883424459,0 -81.96309807638089,40.70812857198734,0 -81.96343567507532,40.70928783377635,0 -81.96436703230279,40.70914919861734,0 -81.96460689239605,40.70921100214736,0 -81.9650923971045,40.70894923436187,0 -81.96555478608285,40.70876312686659,0 -81.96552441635622,40.70713152110199,0 -81.96434152341726,40.70702598013048,0 
+                            </coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder>
+            <name>Set 2</name>
+            <Placemark>
+                <name>Shape 2-1</name>
+                <Polygon>
+                    <tessellate>1</tessellate>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>
+                                -81.98834021695214,40.69452103418363,0 -81.98812651732483,40.68978476540717,0 -81.98732201929137,40.68982207193159,0 -81.98748028381483,40.69454809335561,0 -81.98834021695214,40.69452103418363,0 
+                            </coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark>
+                <name>Shape 2-2</name>
+                <Polygon>
+                    <tessellate>1</tessellate>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>
+                                -81.98570709620523,40.69457415615653,0 -81.98548489260064,40.68973423650695,0 -81.98495179849937,40.6899203348901,0 -81.98523118119185,40.6946028701411,0 -81.98570709620523,40.69457415615653,0 
+                            </coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+    </Folder>
+</Document>
+</kml>
