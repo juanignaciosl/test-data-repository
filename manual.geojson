@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type":"Feature","geometry":{"type":"MultiPoint","coordinates":[[0,0],[1,1]]},"properties":{"cartodb_id":1,"description":null,"name":null}}]}
